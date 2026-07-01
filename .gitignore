@@ -1,0 +1,17 @@
+# Ignore sensitive environment variables
+.env
+
+# Ignore dependency directories
+node_modules/
+venv/
+
+# Ignore IDE configuration and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore build outputs and log files
+dist/
+build/
+*.log
